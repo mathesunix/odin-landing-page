@@ -166,10 +166,22 @@ ul {
     padding: 30px 70px;
     border-radius: 10px;
     background-color: #3882F6;
+    color: #f9faf8;
 }
 
 .blue-container button {
     flex-shrink: 0;
     border: solid 2px #f9faf8;
     color: #f9faf8;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: small;
+    background-color: black;
+    color: #e5e7eb;
 }
